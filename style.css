@@ -1,0 +1,103 @@
+header {
+  display: inline;
+  float: none;
+}
+#links {
+  display: inline;
+  padding: 3px;
+  float: right;
+}
+#loco {
+  padding-right: 5px;
+  float: left;
+  display: inline;
+}
+#delicious {
+  display: inline;
+  font-size: 24px;
+  font-family: 'Yellowtail', cursive;
+  top: 0px;
+}
+#catchphrase {
+  font-size: 10px;
+  color: gray;
+  top: 0px;
+}
+
+hr {
+	height: 24px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+.three {
+  display: inline;
+}
+.choco {
+  font-family: 'Haettenschweiler', fantasy;
+}
+.printicon {
+  font-size: 10px;
+  padding-right: 5px;
+  float: right;
+  display: inline;
+}
+body {
+  max-width: 901px;
+  padding: 2em;
+  margin: auto;
+}
+
+#recipe {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 25px;
+}
+
+#ingridentUL1 {
+  z-index: 100;
+  position: absolute;
+  font-size: 24px;
+  top: 2%;
+  left: 7%;
+}
+
+#ingridentUL2 {
+  z-index: 100;
+  position: absolute;
+  left: 55%;
+  font-size: 24px;
+  top: 2%;
+}
+
+#author {
+  z-index: 0;
+  position: normal;
+  float: left;
+  display: inline-block;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+#authortext {
+  z-index: 0;
+  position: normal;
+  float: left;
+  display: block;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+.copyright {
+  margin-top: 10px;
+  padding-top: 10px;
+  display: block;
+  text-align: center;
+}
+
+.shareButton {
+  width: 100px;
+  height: 50px;
+  background-color: red;
+  color: white;
+  display: inline;
+  float: right;
+}
