@@ -33,18 +33,22 @@ hr {
 	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
     border: 0;
 }
+
 .three {
   display: inline;
 }
+
 .choco {
   font-family: 'Haettenschweiler', fantasy;
 }
+
 .printicon {
   font-size: 10px;
   padding-right: 5px;
   float: right;
   display: inline;
 }
+
 body {
   max-width: 901px;
   padding: 2em;
@@ -82,6 +86,7 @@ body {
   padding-top: 10px;
   margin-top: 10px;
 }
+
 #authortext {
   z-index: 0;
   position: normal;
@@ -90,6 +95,7 @@ body {
   padding-top: 10px;
   margin-top: 10px;
 }
+
 .copyright {
   margin-top: 10px;
   padding-top: 10px;
