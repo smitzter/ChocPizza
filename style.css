@@ -2,22 +2,26 @@ header {
   display: inline;
   float: none;
 }
+
 #links {
   display: inline;
   padding: 3px;
   float: right;
 }
+
 #loco {
   padding-right: 5px;
   float: left;
   display: inline;
 }
+
 #delicious {
   display: inline;
   font-size: 24px;
   font-family: 'Yellowtail', cursive;
   top: 0px;
 }
+
 #catchphrase {
   font-size: 10px;
   color: gray;
